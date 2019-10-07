@@ -1,8 +1,5 @@
 # coding: utf-8
 import random
-
-
-
 def make_bingo():
     s = []
     n = random.randint(1, 75)
